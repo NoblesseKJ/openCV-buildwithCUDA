@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\src\average_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\src\block_mean_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\src\color_moment_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\src\img_hash_base.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\src\marr_hildreth_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\src\phash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\src\radial_variance_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\build\modules\img_hash\opencv_img_hash_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\include\opencv2\img_hash.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\include\opencv2\img_hash\average_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\include\opencv2\img_hash\block_mean_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\include\opencv2\img_hash\color_moment_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\include\opencv2\img_hash\img_hash_base.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\include\opencv2\img_hash\marr_hildreth_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\include\opencv2\img_hash\phash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\include\opencv2\img_hash\radial_variance_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\img_hash\src\precomp.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\build\cvconfig.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\build\opencv2\opencv_modules.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\My-Studies\OpenCV\build\modules\img_hash\vs_version.rc">
+      <Filter>Src</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{2364969E-CA32-3540-A467-E47D8AA03BC5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{E6FA46B8-67F6-3B0F-8C0B-3563A945948D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2\img_hash">
+      <UniqueIdentifier>{E3AAC570-A0E0-3CA7-A3A1-6742CAAAB3EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8638A68D-5167-3809-990B-8742F77733D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{6E9A65E4-7C8C-34DE-9C74-25C8149BB396}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

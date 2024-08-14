@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_core_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_imgproc_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_render_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_video_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\cpu\gapi_core_perf_tests_cpu.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\cpu\gapi_core_perf_tests_fluid.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\cpu\gapi_imgproc_perf_tests_cpu.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\cpu\gapi_imgproc_perf_tests_fluid.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\cpu\gapi_video_perf_tests_cpu.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\gpu\gapi_core_perf_tests_gpu.cpp">
+      <Filter>opencv_gapi\Src\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\gpu\gapi_imgproc_perf_tests_gpu.cpp">
+      <Filter>opencv_gapi\Src\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\internal\gapi_compiler_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\perf_bench.cpp">
+      <Filter>opencv_gapi\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\perf_main.cpp">
+      <Filter>opencv_gapi\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\render\gapi_render_perf_tests_ocv.cpp">
+      <Filter>opencv_gapi\Src\render</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\streaming\gapi_streaming_source_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\streaming</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_core_perf_tests.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_core_perf_tests_inl.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_imgproc_perf_tests.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_imgproc_perf_tests_inl.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_render_perf_tests.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_render_perf_tests_inl.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_video_perf_tests.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\common\gapi_video_perf_tests_inl.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\gapi\perf\perf_precomp.hpp">
+      <Filter>opencv_gapi\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_gapi">
+      <UniqueIdentifier>{C8073601-0227-35A2-B03B-6ECA0AD944C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Include">
+      <UniqueIdentifier>{F5A75BFA-70C2-32DC-9225-ED80DA5A1045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Include\common">
+      <UniqueIdentifier>{D54025AC-F301-3068-BC85-DF66D74E60A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src">
+      <UniqueIdentifier>{BB059C13-8550-3936-ADA1-F6D5A479F62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\common">
+      <UniqueIdentifier>{777368FD-6512-35C5-B332-043FFE5B9B01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\cpu">
+      <UniqueIdentifier>{B0603958-5298-3017-9264-068E7702877B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\gpu">
+      <UniqueIdentifier>{598D4AF3-4740-313C-B14A-F9D73D8B9200}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\internal">
+      <UniqueIdentifier>{436A4EC0-1394-368C-8CFB-86C28C315992}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\render">
+      <UniqueIdentifier>{C9966B78-4EB6-3EB4-BED4-2F25F060ABE4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\streaming">
+      <UniqueIdentifier>{CED9AF04-D336-3AE5-AAAC-351D836C1560}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

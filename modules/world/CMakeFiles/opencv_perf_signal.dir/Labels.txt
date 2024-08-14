@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_signal
+ PerfTest
+# Source files and their labels
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/signal/perf/perf_main.cpp
+ Extra
+ opencv_signal
+ PerfTest
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/signal/perf/perf_resample.cpp
+ Extra
+ opencv_signal
+ PerfTest
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/signal/perf/perf_precomp.hpp
+ Extra
+ opencv_signal
+ PerfTest

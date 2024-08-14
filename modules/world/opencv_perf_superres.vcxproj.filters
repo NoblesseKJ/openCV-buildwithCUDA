@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\superres\perf\perf_main.cpp">
+      <Filter>opencv_superres\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\superres\perf\perf_superres.cpp">
+      <Filter>opencv_superres\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\superres\perf\perf_precomp.hpp">
+      <Filter>opencv_superres\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_superres">
+      <UniqueIdentifier>{10EA0585-4915-319E-8DCF-097AD4FDDB14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_superres\Include">
+      <UniqueIdentifier>{E1D53923-0C29-33AD-8DBC-5AE7F061EC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_superres\Src">
+      <UniqueIdentifier>{1E09AC1C-2CC5-3092-804C-2D81751D7C93}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

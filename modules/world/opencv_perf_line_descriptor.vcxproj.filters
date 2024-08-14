@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\line_descriptor\perf\perf_descriptors.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\line_descriptor\perf\perf_detection.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\line_descriptor\perf\perf_main.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\line_descriptor\perf\perf_matching.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\line_descriptor\perf\perf_precomp.hpp">
+      <Filter>opencv_line_descriptor\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_line_descriptor">
+      <UniqueIdentifier>{AD2ED82A-13C0-3C4F-A1C1-BF7A96FCB23E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_line_descriptor\Include">
+      <UniqueIdentifier>{051F440E-260E-3038-ADB9-5DDBDDCB355B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_line_descriptor\Src">
+      <UniqueIdentifier>{7A00C0BA-15A9-30E2-AB96-D8650C0F8BC5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

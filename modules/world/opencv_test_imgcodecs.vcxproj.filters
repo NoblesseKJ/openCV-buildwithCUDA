@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_avif.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_common.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_grfmt.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_jpeg.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_main.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_png.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_read_write.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_tiff.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_webp.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_common.hpp">
+      <Filter>opencv_imgcodecs\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_exr.impl.hpp">
+      <Filter>opencv_imgcodecs\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\imgcodecs\test\test_precomp.hpp">
+      <Filter>opencv_imgcodecs\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_imgcodecs">
+      <UniqueIdentifier>{DFEC060B-FE62-3792-BE7C-F838859978A3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgcodecs\Include">
+      <UniqueIdentifier>{6DED2FBC-B6DA-3434-9E32-2CFF084D321E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgcodecs\Src">
+      <UniqueIdentifier>{7EF77089-4B95-3226-83D5-22C0E6FA4A48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

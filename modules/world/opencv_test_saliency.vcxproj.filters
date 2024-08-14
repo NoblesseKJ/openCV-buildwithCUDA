@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\saliency\test\test_main.cpp">
+      <Filter>opencv_saliency\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\saliency\test\test_static_saliency_spectral_residual.cpp">
+      <Filter>opencv_saliency\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\saliency\test\test_precomp.hpp">
+      <Filter>opencv_saliency\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_saliency">
+      <UniqueIdentifier>{21A4453F-7636-3B77-BF22-4314B59F9B0C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_saliency\Include">
+      <UniqueIdentifier>{1A2794CD-08D3-36AE-8074-3541B346B4FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_saliency\Src">
+      <UniqueIdentifier>{66CC2DC2-5B9B-34C1-B4B1-E6169486493A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

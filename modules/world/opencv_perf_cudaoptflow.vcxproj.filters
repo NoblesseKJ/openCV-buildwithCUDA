@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\cudaoptflow\perf\perf_main.cpp">
+      <Filter>opencv_cudaoptflow\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\cudaoptflow\perf\perf_optflow.cpp">
+      <Filter>opencv_cudaoptflow\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\cudaoptflow\perf\perf_precomp.hpp">
+      <Filter>opencv_cudaoptflow\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudaoptflow">
+      <UniqueIdentifier>{D5E0A485-4212-381A-BE94-00EA10EB2942}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaoptflow\Include">
+      <UniqueIdentifier>{D846F83D-645D-3702-A0BD-E236146FB1F2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaoptflow\Src">
+      <UniqueIdentifier>{CB8BD231-B514-33D6-B69A-04D2FCBF6C91}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

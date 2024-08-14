@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\highgui\test\test_gui.cpp">
+      <Filter>opencv_highgui\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\highgui\test\test_main.cpp">
+      <Filter>opencv_highgui\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\highgui\test\test_precomp.hpp">
+      <Filter>opencv_highgui\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_highgui">
+      <UniqueIdentifier>{A1C43A90-AAF6-3590-8445-FF667CEDB8DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_highgui\Include">
+      <UniqueIdentifier>{D78C0134-1403-38F9-AB65-D4C1E6C5C604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_highgui\Src">
+      <UniqueIdentifier>{E3BA51A3-CD3A-30D5-A3A5-F34C69C783EA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

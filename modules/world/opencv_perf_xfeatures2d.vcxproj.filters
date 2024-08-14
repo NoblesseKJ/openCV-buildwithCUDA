@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_beblid.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_daisy.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_latch.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_main.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_msd.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_surf.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_surf.cuda.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_surf.ocl.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_teblid.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_vgg.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\xfeatures2d\perf\perf_precomp.hpp">
+      <Filter>opencv_xfeatures2d\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_xfeatures2d">
+      <UniqueIdentifier>{BF2FA366-5ADF-30B5-B7E8-F4393DDE61DD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_xfeatures2d\Include">
+      <UniqueIdentifier>{0382F774-17BF-389E-8B96-93D65BD28296}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_xfeatures2d\Src">
+      <UniqueIdentifier>{A9AF51AB-7867-39AA-BDD1-5BD1664862B8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

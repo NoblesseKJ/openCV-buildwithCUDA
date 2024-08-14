@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\stitching\perf\opencl\perf_stitch.cpp">
+      <Filter>opencv_stitching\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\stitching\perf\opencl\perf_warpers.cpp">
+      <Filter>opencv_stitching\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\stitching\perf\perf_estimators.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\stitching\perf\perf_main.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\stitching\perf\perf_matchers.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\stitching\perf\perf_stich.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\stitching\perf\perf_precomp.hpp">
+      <Filter>opencv_stitching\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_stitching">
+      <UniqueIdentifier>{412ABBC6-EC7D-3BF8-87B8-B292E5981AE0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Include">
+      <UniqueIdentifier>{B13AEED3-B1D3-3C8E-A9F4-A4FE7FCE0100}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Src">
+      <UniqueIdentifier>{8293F631-08FB-3301-A055-EB6ED60A8BB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Src\opencl">
+      <UniqueIdentifier>{448B91F1-EF49-30FC-AA7A-044BC5623A73}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

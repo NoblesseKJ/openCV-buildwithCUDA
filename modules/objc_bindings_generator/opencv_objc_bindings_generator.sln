@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CMakeTargets", "CMakeTargets", "{6B1C1EAC-C61C-36CA-BB49-C1DE1029ACCA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{213C32BB-8571-3E05-AAE0-98AE88CF9065}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "INSTALL", "INSTALL.vcxproj", "{AD677895-225E-3607-A4A5-E824D357F1FC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{213C32BB-8571-3E05-AAE0-98AE88CF9065} = {213C32BB-8571-3E05-AAE0-98AE88CF9065}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PACKAGE", "PACKAGE.vcxproj", "{BCD2EDD7-3990-3DDF-9A6E-DE67D8B5CEAF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{213C32BB-8571-3E05-AAE0-98AE88CF9065} = {213C32BB-8571-3E05-AAE0-98AE88CF9065}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RUN_TESTS", "RUN_TESTS.vcxproj", "{608ACAB0-D6D5-3B72-91EA-2278344C5C23}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gen_opencv_objc_source", "gen_opencv_objc_source.vcxproj", "{60A0B284-AFDF-3EA1-9F61-DEDB554A71C5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CD13354A-BBF9-38C2-884A-C9B33CBA40E1} = {CD13354A-BBF9-38C2-884A-C9B33CBA40E1}
+		{3564C318-4D4E-3FAB-87FC-9C7F0E359434} = {3564C318-4D4E-3FAB-87FC-9C7F0E359434}
+		{2DA3059A-4AEA-3DA0-82E6-5F6E3EC99128} = {2DA3059A-4AEA-3DA0-82E6-5F6E3EC99128}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gen_opencv_objc_source_ios", "gen_opencv_objc_source_ios.vcxproj", "{CD13354A-BBF9-38C2-884A-C9B33CBA40E1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gen_opencv_objc_source_osx", "gen_opencv_objc_source_osx.vcxproj", "{3564C318-4D4E-3FAB-87FC-9C7F0E359434}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gen_opencv_objc_source_visionos", "gen_opencv_objc_source_visionos.vcxproj", "{2DA3059A-4AEA-3DA0-82E6-5F6E3EC99128}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213C32BB-8571-3E05-AAE0-98AE88CF9065}.Release|x64.ActiveCfg = Release|x64
+		{213C32BB-8571-3E05-AAE0-98AE88CF9065}.Release|x64.Build.0 = Release|x64
+		{AD677895-225E-3607-A4A5-E824D357F1FC}.Release|x64.ActiveCfg = Release|x64
+		{BCD2EDD7-3990-3DDF-9A6E-DE67D8B5CEAF}.Release|x64.ActiveCfg = Release|x64
+		{608ACAB0-D6D5-3B72-91EA-2278344C5C23}.Release|x64.ActiveCfg = Release|x64
+		{60A0B284-AFDF-3EA1-9F61-DEDB554A71C5}.Release|x64.ActiveCfg = Release|x64
+		{CD13354A-BBF9-38C2-884A-C9B33CBA40E1}.Release|x64.ActiveCfg = Release|x64
+		{CD13354A-BBF9-38C2-884A-C9B33CBA40E1}.Release|x64.Build.0 = Release|x64
+		{3564C318-4D4E-3FAB-87FC-9C7F0E359434}.Release|x64.ActiveCfg = Release|x64
+		{3564C318-4D4E-3FAB-87FC-9C7F0E359434}.Release|x64.Build.0 = Release|x64
+		{2DA3059A-4AEA-3DA0-82E6-5F6E3EC99128}.Release|x64.ActiveCfg = Release|x64
+		{2DA3059A-4AEA-3DA0-82E6-5F6E3EC99128}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{213C32BB-8571-3E05-AAE0-98AE88CF9065} = {6B1C1EAC-C61C-36CA-BB49-C1DE1029ACCA}
+		{AD677895-225E-3607-A4A5-E824D357F1FC} = {6B1C1EAC-C61C-36CA-BB49-C1DE1029ACCA}
+		{BCD2EDD7-3990-3DDF-9A6E-DE67D8B5CEAF} = {6B1C1EAC-C61C-36CA-BB49-C1DE1029ACCA}
+		{608ACAB0-D6D5-3B72-91EA-2278344C5C23} = {6B1C1EAC-C61C-36CA-BB49-C1DE1029ACCA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1319C3C-B7E7-3494-91B7-78365D75560D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\ocl\test_denoising.cpp">
+      <Filter>opencv_photo\Src\ocl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_cloning.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_decolor.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_denoise_tvl1.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_denoising.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_denoising.cuda.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_hdr.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_inpaint.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_main.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_npr.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\photo\test\test_precomp.hpp">
+      <Filter>opencv_photo\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_photo">
+      <UniqueIdentifier>{F627AA89-CC1D-34F2-A137-4C3781AA1420}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_photo\Include">
+      <UniqueIdentifier>{337C13A0-5795-3A18-AAF8-26D43268051C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_photo\Src">
+      <UniqueIdentifier>{FD9D2A52-2146-3B83-BBF6-6A9DD87EA646}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_photo\Src\ocl">
+      <UniqueIdentifier>{855A6EAE-6FE0-327F-ADA1-FC45C782F709}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,130 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindJavaCommon.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindBLAS.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindJNI.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindJava.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindLAPACK.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindOpenMP.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/TestBigEndian.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/UseJava.cmake
+C:/Program Files/CMake/share/cmake-3.30/Templates/CPackConfig.cmake.in
+D:/My-Studies/OpenCV/build/3rdparty/ffmpeg/ffmpeg_version.cmake
+D:/My-Studies/OpenCV/build/CMakeFiles/3.30.0-rc1/CMakeCCompiler.cmake
+D:/My-Studies/OpenCV/build/CMakeFiles/3.30.0-rc1/CMakeCXXCompiler.cmake
+D:/My-Studies/OpenCV/build/CMakeFiles/3.30.0-rc1/CMakeRCCompiler.cmake
+D:/My-Studies/OpenCV/build/CMakeFiles/3.30.0-rc1/CMakeSystem.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/3rdparty/ffmpeg/ffmpeg.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/3rdparty/ippicv/ippicv.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/CMakeLists.txt
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/FindCUDNN.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVCRTLinkage.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVCompilerOptimizations.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVCompilerOptions.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectApacheAnt.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectCUDA.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectCUDAUtils.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectCXXCompiler.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectDirectML.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectDirectX.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectFlatbuffers.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectOpenCL.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectPython.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectTrace.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDetectVTK.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVDownload.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVExtraTargets.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindFrameworks.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindIPP.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindIPPIW.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindLAPACK.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindLibsGUI.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindLibsGrfmt.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindLibsPerf.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindLibsVideo.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindMKL.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindOpenBLAS.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindOpenEXR.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVFindProtobuf.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVGenABI.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVGenAndroidMK.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVGenConfig.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVGenHeaders.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVGenSetupVars.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVInstallLayout.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVMinDepVersions.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVModule.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVPCHSupport.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVPackaging.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVUtils.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/OpenCVVersion.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/checks/directml.cpp
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/checks/directx.cpp
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/checks/opencl.cpp
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/checks/win32uitest.cpp
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/platforms/OpenCV-Windows.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/OpenCVConfig-version.cmake.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/OpenCVConfig.cmake.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/OpenCVConfig.root-WIN32.cmake.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/cmake_uninstall.cmake.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/custom_hal.hpp.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/cv_cpu_config.h.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/cvconfig.h.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/opencv_modules.hpp.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/setup_vars_win32.cmd.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/vars/EnableModeVars.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/core/include/opencv2/core/version.hpp
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/dnn/cmake/init.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/gapi/cmake/DownloadADE.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/gapi/cmake/init.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/highgui/cmake/detect_win32ui.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/highgui/cmake/init.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/videoio/cmake/detect_dc1394.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/videoio/cmake/detect_dshow.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/videoio/cmake/detect_ffmpeg.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/videoio/cmake/detect_gstreamer.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/videoio/cmake/detect_msmf.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/videoio/cmake/detect_obsensor.cmake
+D:/My-Studies/OpenCV/opencv-4.10.0/modules/videoio/cmake/init.cmake
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/julia/cmake/init.cmake
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/matlab/cmake/init.cmake
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/text/cmake/FindTesseract.cmake
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/text/cmake/init.cmake

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\opencl\perf_bgfg_knn.cpp">
+      <Filter>opencv_video\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\opencl\perf_bgfg_mog2.cpp">
+      <Filter>opencv_video\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\opencl\perf_dis_optflow.cpp">
+      <Filter>opencv_video\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\opencl\perf_motempl.cpp">
+      <Filter>opencv_video\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\opencl\perf_optflow_farneback.cpp">
+      <Filter>opencv_video\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\opencl\perf_optflow_pyrlk.cpp">
+      <Filter>opencv_video\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_bgfg_knn.cpp">
+      <Filter>opencv_video\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_bgfg_mog2.cpp">
+      <Filter>opencv_video\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_disflow.cpp">
+      <Filter>opencv_video\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_ecc.cpp">
+      <Filter>opencv_video\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_main.cpp">
+      <Filter>opencv_video\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_optflowpyrlk.cpp">
+      <Filter>opencv_video\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_trackers.cpp">
+      <Filter>opencv_video\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_variational_refinement.cpp">
+      <Filter>opencv_video\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_bgfg_utils.hpp">
+      <Filter>opencv_video\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv-4.10.0\modules\video\perf\perf_precomp.hpp">
+      <Filter>opencv_video\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_video">
+      <UniqueIdentifier>{C01AE733-3528-32FE-8ABF-D3946006BDFD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_video\Include">
+      <UniqueIdentifier>{4BF86BB4-E65E-3AA5-801E-A9B3FA403D38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_video\Src">
+      <UniqueIdentifier>{E4424B42-13D1-3B2E-B232-935621B8C031}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_video\Src\opencl">
+      <UniqueIdentifier>{84673804-1DE8-3E9D-808E-F2B770BD3F5C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

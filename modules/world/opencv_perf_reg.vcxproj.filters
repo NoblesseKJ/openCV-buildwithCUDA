@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\reg\perf\perf_main.cpp">
+      <Filter>opencv_reg\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\reg\perf\perf_reg.cpp">
+      <Filter>opencv_reg\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\reg\perf\perf_precomp.hpp">
+      <Filter>opencv_reg\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_reg">
+      <UniqueIdentifier>{047E64F1-1219-3D3C-B565-83317281FE27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_reg\Include">
+      <UniqueIdentifier>{A1966A67-EEE7-361C-88DC-64A3A32A14F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_reg\Src">
+      <UniqueIdentifier>{224ED6A4-A804-367D-B06E-E85F9D4079E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

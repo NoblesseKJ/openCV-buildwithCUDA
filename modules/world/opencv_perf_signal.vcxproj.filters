@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\signal\perf\perf_main.cpp">
+      <Filter>opencv_signal\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\signal\perf\perf_resample.cpp">
+      <Filter>opencv_signal\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\signal\perf\perf_precomp.hpp">
+      <Filter>opencv_signal\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_signal">
+      <UniqueIdentifier>{7659F325-293C-3DE3-9550-04D2BCB10525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_signal\Include">
+      <UniqueIdentifier>{78EFF3AC-DA4C-342B-BAFF-AA859834B847}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_signal\Src">
+      <UniqueIdentifier>{F513C989-C8E0-3B9C-925F-77EF8834E545}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

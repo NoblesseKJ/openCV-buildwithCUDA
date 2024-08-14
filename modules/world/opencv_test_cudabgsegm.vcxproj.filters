@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\cudabgsegm\test\test_bgsegm.cpp">
+      <Filter>opencv_cudabgsegm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\cudabgsegm\test\test_main.cpp">
+      <Filter>opencv_cudabgsegm\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\cudabgsegm\test\test_precomp.hpp">
+      <Filter>opencv_cudabgsegm\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudabgsegm">
+      <UniqueIdentifier>{43BCBDA7-F193-395E-ADF9-A99B633A1079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudabgsegm\Include">
+      <UniqueIdentifier>{E11F4CE5-1E12-3846-9CAE-868D58D889B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudabgsegm\Src">
+      <UniqueIdentifier>{7064FBB7-E89C-3775-A02C-C0C6E0597C8F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

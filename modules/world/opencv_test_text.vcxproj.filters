@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\text\test\test_detection.cpp">
+      <Filter>opencv_text\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\text\test\test_detection_swt.cpp">
+      <Filter>opencv_text\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\text\test\test_main.cpp">
+      <Filter>opencv_text\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\text\test\test_precomp.hpp">
+      <Filter>opencv_text\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_text">
+      <UniqueIdentifier>{D73A2B52-595D-3E4D-B2BF-AAA94B99A8EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_text\Include">
+      <UniqueIdentifier>{68A69E3A-9DFD-3168-A522-9ECF1ADB6451}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_text\Src">
+      <UniqueIdentifier>{4AF25BBB-25DC-3583-816F-24145183F362}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

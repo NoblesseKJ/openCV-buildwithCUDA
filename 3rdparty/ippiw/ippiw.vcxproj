@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{EC230F2E-333A-35AC-9A14-12F085E3D588}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>ippiw</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\My-Studies\OpenCV\build\3rdparty\lib\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ippiw.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ippiw</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include;D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\icv\include;D:\My-Studies\OpenCV\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MinimalRebuild></MinimalRebuild>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;NDEBUG;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;IW_BUILD;ICV_BASE;CMAKE_INTDIR="Release"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ProgramDataBaseFileName>D:\My-Studies\OpenCV\build\3rdparty\lib\Release\ippiw.pdb</ProgramDataBaseFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;NDEBUG;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;IW_BUILD;ICV_BASE;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include;D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\icv\include;D:\My-Studies\OpenCV\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include;D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\icv\include;D:\My-Studies\OpenCV\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64 /IGNORE:4221</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_core.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_color_convert_all.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_color_convert_rgbs.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_filter_bilateral.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_filter_box.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_filter_canny.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_filter_gaussian.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_filter_general.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_filter_laplacian.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_filter_morphology.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_filter_scharr.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_filter_sobel.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_op_copy.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_op_copy_channel.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_op_copy_make_border.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_op_copy_merge.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_op_copy_split.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_op_scale.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_op_set.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_op_set_channel.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_op_swap_channels.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_transform_mirror.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_transform_resize.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_transform_rotate.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_image_transform_warpaffine.c" />
+    <ClCompile Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\src\iw_own.c" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw++\iw.hpp" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw++\iw_core.hpp" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw++\iw_image.hpp" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw++\iw_image_color.hpp" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw++\iw_image_filter.hpp" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw++\iw_image_op.hpp" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw++\iw_image_transform.hpp" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw\iw.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw\iw_core.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw\iw_image.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw\iw_image_color.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw\iw_image_filter.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw\iw_image_op.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw\iw_image_transform.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw\iw_ll.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw\iw_version.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw_config.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw_own.h" />
+    <ClInclude Include="D:\My-Studies\OpenCV\build\3rdparty\ippicv\ippicv_win\iw\include\iw_owni.h" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

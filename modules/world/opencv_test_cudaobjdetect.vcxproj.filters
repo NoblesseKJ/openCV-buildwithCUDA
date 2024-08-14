@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\cudaobjdetect\test\test_main.cpp">
+      <Filter>opencv_cudaobjdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\cudaobjdetect\test\test_objdetect.cpp">
+      <Filter>opencv_cudaobjdetect\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\My-Studies\OpenCV\opencv_contrib-4.x\modules\cudaobjdetect\test\test_precomp.hpp">
+      <Filter>opencv_cudaobjdetect\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudaobjdetect">
+      <UniqueIdentifier>{AEA3237E-4ADB-3266-8E38-496997922B82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaobjdetect\Include">
+      <UniqueIdentifier>{CF9D707C-E4CF-3F59-932B-5F4D1789BD12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaobjdetect\Src">
+      <UniqueIdentifier>{443D01B2-FD4C-3482-B07E-D96A57F1ABA3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

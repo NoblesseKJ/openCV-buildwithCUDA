@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_cudaobjdetect
+ PerfTest
+# Source files and their labels
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/cudaobjdetect/perf/perf_main.cpp
+ Extra
+ opencv_cudaobjdetect
+ PerfTest
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/cudaobjdetect/perf/perf_objdetect.cpp
+ Extra
+ opencv_cudaobjdetect
+ PerfTest
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/cudaobjdetect/perf/perf_precomp.hpp
+ Extra
+ opencv_cudaobjdetect
+ PerfTest

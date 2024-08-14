@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/cudaoptflow/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_cudaoptflow",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/cudaoptflow/perf/perf_optflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_cudaoptflow",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/cudaoptflow/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_cudaoptflow",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_cudaoptflow",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_cudaoptflow"
+	}
+}

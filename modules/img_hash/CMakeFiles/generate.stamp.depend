@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/dllmain.cpp.in
+D:/My-Studies/OpenCV/opencv-4.10.0/cmake/templates/vs_version.rc.in
+D:/My-Studies/OpenCV/opencv_contrib-4.x/modules/img_hash/CMakeLists.txt
